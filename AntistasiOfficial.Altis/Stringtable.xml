@@ -8,11 +8,11 @@
 			</Key>
 			<Key ID="STR_DES_ESWCMD">
 				<Original>Antistasi: enable Switch Commander</Original>
-				<Russian>Antistasi: Вкл. автоназначение Командира</Russian>
+				<Russian>Antistasi: включить автоназначение Командира</Russian>
 			</Key>
 			<Key ID="STR_DES_ESRMBR">
 				<Original>Antistasi: enable Server Membership</Original>
-				<Russian>Antistasi: Вкл. список Участников на сервере</Russian>
+				<Russian>Antistasi: включить список Участников на сервере</Russian>
 			</Key>
 			<Key ID="STR_DES_USABJN">
 				<Original>Antistasi: use customized arsenal by Jeroen Not</Original>
@@ -28,7 +28,7 @@
 			</Key>
 			<Key ID="STR_DES_ENVCOMAI">
 				<Original>Antistasi: enable VCOM AI for server/headless client</Original>
-				<Russian>Antistasi: Вкл. VCOM AI</Russian>
+				<Russian>Antistasi: включить VCOM AI</Russian>
 			</Key>
 
 
@@ -86,7 +86,7 @@
 			</Key>
 			<Key ID="STR_ACT_RECRUITUNIT">
 				<Original>&lt;img size='1.75' image='\A3\ui_f\data\IGUI\Cfg\MPTable\infantry_ca.paa' /&gt; Unit Recruitment</Original>
-				<Russian>&lt;img size='1.75' image='\A3\ui_f\data\IGUI\Cfg\MPTable\infantry_ca.paa' /&gt; Нанять бойцов</Russian>
+				<Russian>&lt;img size='1.75' image='\A3\ui_f\data\IGUI\Cfg\MPTable\infantry_ca.paa' /&gt; Набрать отряд</Russian>
 			</Key>
 			<Key ID="STR_ACT_RETURNCONTROL">
 				<Original>&lt;img size='1.2' image='\A3\ui_f\data\IGUI\Cfg\MPTable\infantry_ca.paa' /&gt; Return Control to AI</Original>
@@ -102,7 +102,7 @@
 			</Key>
 			<Key ID="STR_ACT_UNLOADCARGO">
 				<Original>&lt;img size='1.2' image='\A3\ui_f\data\igui\cfg\VehicleToggles\VehicleCargoIconOn_ca.paa' /&gt; Unload Vehicle Cargo to Ammobox</Original>
-				<Russian>&lt;img size='1.2' image='\A3\ui_f\data\igui\cfg\VehicleToggles\VehicleCargoIconOn_ca.paa' /&gt; Выгрузить из транспорта в Ящик</Russian>
+				<Russian>&lt;img size='1.2' image='\A3\ui_f\data\igui\cfg\VehicleToggles\VehicleCargoIconOn_ca.paa' /&gt; Выгрузить из техники в Ящик</Russian>
 			</Key>
 			<Key ID="STR_ACT_ARSENAL">
 				<Original>&lt;img size='1.75' image='\A3\ui_f\data\GUI\Rsc\RscDisplayArsenal\spaceArsenal_ca.paa' /&gt; Arsenal</Original>
@@ -122,7 +122,7 @@
 			</Key>
 			<Key ID="STR_ACT_REFUEL">
 				<Original>&lt;img size='1.2' image='\A3\ui_f\data\IGUI\Cfg\Actions\refuel_ca.paa' /&gt; Refuel Vehicle</Original>
-				<Russian>&lt;img size='1.2' image='\A3\ui_f\data\IGUI\Cfg\Actions\refuel_ca.paa' /&gt; Заправить транспорт</Russian>
+				<Russian>&lt;img size='1.2' image='\A3\ui_f\data\IGUI\Cfg\Actions\refuel_ca.paa' /&gt; Заправить технику</Russian>
 			</Key>
 			<Key ID="STR_ACT_MOVEASSET">
 				<Original>&lt;img size='1.2' image='\A3\ui_f\data\IGUI\Cfg\Actions\VTOLVectoring_ca.paa' /&gt; Move this Asset</Original>
@@ -300,11 +300,11 @@
 			</Key>
 			<Key ID="STR_GL_MAP_AP">
 				<Original>%1 Airport</Original>
-				<Russian>Авиабаза %1</Russian>
+				<Russian>А/база %1</Russian>
 			</Key>
 			<Key ID="STR_GL_MAP_MB">
 				<Original>%1 Base</Original>
-				<Russian>База %1</Russian>
+				<Russian>В/база %1</Russian>
 			</Key>
 			<Key ID="STR_GL_MAP_RS">
 				<Original>Resources</Original>
@@ -340,11 +340,11 @@
 			</Key>
 			<Key ID="STR_GL_MAP_MB1">
 				<Original>%2 Base: %1</Original>
-				<Russian>База %2: %1</Russian>
+				<Russian>В/база %2: %1</Russian>
 			</Key>
 			<Key ID="STR_GL_MAP_AP1">
 				<Original>%2 Airport: %1</Original>
-				<Russian>АБ %2: %1</Russian>
+				<Russian>А/база %2: %1</Russian>
 			</Key>
 		</Container>
 	</Package>
@@ -643,11 +643,11 @@
 			</Key>
 			<Key ID="STR_UI_NAVCOM_SQR_TEXT">
 				<Original>Recruit Squad</Original>
-				<Russian>Нанять отряд</Russian>
+				<Russian>Отряды</Russian>
 			</Key>
 			<Key ID="STR_UI_NAVCOM_SQR_TT">
 				<Original>Recruit squads to support your effort, including fireteams and mounted units.</Original>
-				<Russian>Открывает меню найма отрядов в FIA.</Russian>
+				<Russian>Открывает меню отрядов FIA.</Russian>
 			</Key>
 			<Key ID="STR_UI_NAVCOM_SQM_TEXT">
 				<Original>Squad Mgmt</Original>
@@ -2319,7 +2319,7 @@
 			</Key>
 			<Key ID="STR_D_RECRU_OPT">
 				<Original>Recruitment Options</Original>
-				<Russian>Опции найма</Russian>
+				<Russian>Набрать отряд</Russian>
 			</Key>
 			<Key ID="STR_D_RECRU_MIL">
 				<Original>Recruit Militiaman</Original>
@@ -2359,7 +2359,7 @@
 			</Key>
 			<Key ID="STR_D_SQ_RECR_OP">
 				<Original>Squad Recruitment Options</Original>
-				<Russian>Опции найма отрядов</Russian>
+				<Russian>Опции отрядов</Russian>
 				<!-- Редакт. -->
 			</Key>
 			<Key ID="STR_D_RECRU_INF_SQ">
@@ -2555,7 +2555,7 @@
 			</Key>
 			<Key ID="STR_D_RECR_GAR">
 				<Original>Recruit Garrison</Original>
-				<Russian>Нанять в гарнизон</Russian>
+				<Russian>Гарнизоны</Russian>
 			</Key>
 			<Key ID="STR_D_REMO_GAR">
 				<Original>Remove Garrison</Original>
@@ -2563,39 +2563,39 @@
 			</Key>
 			<Key ID="STR_D_GAR_REC_OP">
 				<Original>Garrison Recruitment Options</Original>
-				<Russian>Нанять в гарнизон</Russian>
+				<Russian>Комплектовать гарнизон</Russian>
 			</Key>
 			<Key ID="STR_D_REC_MILI">
 				<Original>Recruit Militiaman</Original>
-				<Russian>Нанять стрелка</Russian>
+				<Russian>Стрелок</Russian>
 			</Key>
 			<Key ID="STR_D_REC_AUTORIL">
 				<Original>Recruit Autorifleman</Original>
-				<Russian>Нанять пулемётчика</Russian>
+				<Russian>Пулемётчик</Russian>
 			</Key>
 			<Key ID="STR_D_REC_MED">
 				<Original>Recruit Medic</Original>
-				<Russian>Нанять медика</Russian>
+				<Russian>Медик</Russian>
 			</Key>
 			<Key ID="STR_D_REC_MARKMAN">
 				<Original>Recruit Marksman</Original>
-				<Russian>Нанять снайпера</Russian>
+				<Russian>Снайпер</Russian>
 			</Key>
 			<Key ID="STR_D_REC_SQLEAD">
 				<Original>Recruit Squad Leader</Original>
-				<Russian>Нанять командира отряда</Russian>
+				<Russian>Командир отряда</Russian>
 			</Key>
 			<Key ID="STR_D_REC_GRENA">
 				<Original>Recruit Grenadier</Original>
-				<Russian>Нанять стрелка (ГП)</Russian>
+				<Russian>Стрелок (ГП)</Russian>
 			</Key>
 			<Key ID="STR_D_REC_MORTAR">
 				<Original>Recruit Mortar</Original>
-				<Russian>Нанять миномёт</Russian>
+				<Russian>Миномёт</Russian>
 			</Key>
 			<Key ID="STR_D_REC_AT">
 				<Original>Recruit AT</Original>
-				<Russian>Нанять гранатометчика</Russian>
+				<Russian>Гранатометчик</Russian>
 			</Key>
 			<Key ID="STR_D_YES">
 				<Original>YES</Original>
@@ -3735,7 +3735,7 @@
 					Враги реагируют на Ваши действия, отправляя подкрепление или патрули, поэтому время их реакции различается в зависимости от расстояния до базы, вида используемого противником транспорта и возможности добраться к Вам. &lt;br/&gt;
 					Попытайтесь быстро устранить противника, если хотите, чтобы у Вас осталось время собрать трофеи и спокойно слинять до их прихода. &lt;br/&gt;&lt;br/&gt;
 
-					Игра в одиночку может быть тяжелой, если Вы не будете разведывать и изучать территорию. Попытайтесь нанять ИИ в помощь (1 или 2 бойца могут выполнять некоторую работу, они недостаточно опытны, чтобы эффективно убивать врагов, однако они могут обеспечить прикрытие огнем, если их грамотно расположить). Кроме того, ИИ будет стараться оказать Вам медпомощь если Вы будете ранены, и поблизости не будет врагов. &lt;br/&gt;&lt;br/&gt;
+					Игра в одиночку может быть тяжелой, если Вы не будете разведывать и изучать территорию. Попытайтесь взять ИИ в помощь (1 или 2 бойца могут выполнять некоторую работу, они недостаточно опытны, чтобы эффективно убивать врагов, однако они могут обеспечить прикрытие огнем, если их грамотно расположить). Кроме того, ИИ будет стараться оказать Вам медпомощь если Вы будете ранены, и поблизости не будет врагов. &lt;br/&gt;&lt;br/&gt;
 
 					Но свой полный потенциал Antistasi раскрывает если Вы играете с друзьями, поэтому присоединяйтесь к официальным серверам Antistasi и создавайте новые!
 				</Russian>
@@ -4334,7 +4334,7 @@
 					Mortars have limited range and ammunition. They can be resupplied at HQ by the Heal, Repair and Rearm function.
 				</Original>
 				<Russian>
-					Командир может использовать очки HR для найма отрядов FIA, их можно будет контролировать через панель Командира. На уровень боеспособности отрядов влияет уровень Опыта Армии. После того, как отряды наняты, они будут нести службу до тех пор, пока не погибнут, не будут распущены или не будет выхода из игры(в этом случае очки HR будут частично возвращены в зависимости от состояния здоровья Юнитов).&lt;br/&gt;&lt;br/&gt;
+					Командир может использовать очки HR для формирования отрядов FIA, их можно будет контролировать через панель Командира. На уровень боеспособности отрядов влияет уровень Опыта Армии. После того, как отряды наняты, они будут нести службу до тех пор, пока не погибнут, не будут распущены или не будет выхода из игры(в этом случае очки HR будут частично возвращены в зависимости от состояния здоровья Юнитов).&lt;br/&gt;&lt;br/&gt;
 
 					Вы можете напрямую управлять лидером каждой группы, выбирая команду в режиме Командира и используя функцию Временный контроль ИИ в меню «Y».&lt;br/&gt;&lt;br/&gt;
 
@@ -4363,9 +4363,9 @@
 				<Russian>
 					Командир может использовать имеющиеся очки HR на формирование гарнизона FIA на захваченном объекте или в Штабе. Уровень нанятых бойцов будет напрямую зависеть от уровня Опыта Армии. Они не могут контролироваться напрямую. &lt;br/&gt;&lt;br/&gt;
 
-					В Вашем Штабе, подойдите к Флагу и выберите в меню взаимодействия -> Штаб -> Нанять в Гарнизон. Выберите точку, на которой Вы хотите разместить гарнизон, и добавьте боевые единицы.&lt;br/&gt;&lt;br/&gt;
+					В Вашем Штабе, подойдите к Флагу и выберите в меню взаимодействия -> Штаб -> Гарнизоны. Выберите точку, на которой Вы хотите разместить гарнизон, и добавьте боевые единицы.&lt;br/&gt;&lt;br/&gt;
 
-					Добавление управляемого ИИ станкового оружия: соберите станковое оружие, наймите бойца - «Стрелок», и он будет управлять оружием. Информация о гарнизоне (просматриваемая на Карте в Штабе) отображает количество имеющихся станковых орудий.&lt;br/&gt;&lt;br/&gt;
+					Добавление управляемого ИИ станкового оружия: соберите станковое оружие, добавьте в гарзнизон бойца - «Стрелок», и он будет управлять оружием. Информация о гарнизоне (просматриваемая на Карте в Штабе) отображает количество имеющихся станковых орудий.&lt;br/&gt;&lt;br/&gt;
 
 					Гарнизонные минометные команды могут начать вести огонь на большое расстояние, поэтому будьте внимательны при выборе места их размещения, чтобы свести к минимуму дружественный огонь, жертвы среди гражданского населения и побочный ущерб. &lt;br/&gt;&lt;br/&gt;
 
